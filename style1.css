@@ -1,0 +1,126 @@
+/*---------------------- container3 part --------------------------------------------------------*/
+.container3
+{
+    width: auto;
+    height:500px;
+    background-color: #191457;
+    margin-top: 200px;
+}
+.container3 h2
+{
+  display: flex;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Cuprum', sans-serif;
+  color: white;
+  padding-top: 180px;
+  margin-left: 150px;
+}
+.container3 h1
+{
+    display: flex;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 600;
+    font-family: 'Cuprum', sans-serif;
+    color:#fccb1c;
+    margin-left: 130px;
+    margin-top: -30px;
+    margin-left: 150px;
+}
+.container3 .content1
+{
+   width: 400px;
+   height: 50px;
+   background-color: white;
+   margin-left: 800px;
+   margin-top: -320px;
+   border-radius: 10px;
+}
+.container3 .content
+{
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    margin-left: 800px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.container3 p
+{
+    text-align: center;
+    padding-top: 13px;
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    color: #191457;
+}
+/*---------------- container4 part -------------------------------------------------------------*/
+.container4 h1
+{
+    display: flex;
+    margin-left: 50px;
+    font-size: 50px;
+    color: #4f46bb;
+    font-family: 'Cuprum', sans-serif;
+}
+.container4 h6
+{
+   display: flex;
+   margin-left: 58px;
+   margin-top: -30px;
+   font-size: 15px;
+   color:dimgrey ; 
+   font-family: 'Cuprum', sans-serif;
+}
+.container4 label
+{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 100px;
+}
+.container4 input
+{
+    width: 400px;
+    height: 50px;
+    background-color: transparent;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 2px solid dimgray;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    border-width: 0.2px;
+}
+.container4 input:hover
+{
+    border-width: 2px;
+    border-color: #4f46bb;
+}
+.container4 button
+{
+    width: 400px;
+    height: 60px;
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #4f46bb;
+    border-color: #4f46bb;
+    color: white;
+}
+.container4 button:hover
+{
+    outline: 2px solid #4f46bb;
+}
+#container4 img 
+{
+    width: 600px;
+    height: 500px;
+    float: right;
+    margin-top: -600px;
+    margin-right: 100px;
+    background-color: transparent;
+}
